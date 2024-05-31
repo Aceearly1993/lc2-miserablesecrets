@@ -136,7 +136,7 @@ Explosion d'aura noire 5
 "Le rapport du prêtre Henri Sardis présente un monstre spécial qui peut se régénérer à sa défaite."
 
 "不过有位李卡德家的年轻人说用具有神圣力量的攻击可以彻底摧毁它。"
-"But a yong knight of the Lecarde clan says it can be permanently destroyed by Holy powers."
+"But a young knight of the Lecarde clan says it can be permanently destroyed by Holy powers."
 "Mas um jovem cavaleiro do clã Lecarde diz que ele pode ser destruído por poder sagrado."
 "Mais un jeune chevalier du clan Lecarde rapport qu'il peut être définitivement détruit par un pouvoir saint."
 
