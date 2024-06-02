@@ -6,7 +6,7 @@ Menu d'équipement
 Epée vorpale
 
 
-"Although not the type of weapon you want, this blade can generate invisible sharp gales that slashes through enemies."
+"Although not the type of weapon you want, this blade can generate invisible sharp gales that slash through enemies."
 
 "这把剑虽然可能不是你所想的那种武器，
 但是它仍然可以释放隐形的真空波切碎敌人。"
@@ -103,7 +103,7 @@ Explosion d'aura noire 3
 "A propos du sort RENFORCEMENT"
 
 "强化咒术可以同时强化你的攻击力跟临界率。不过需要注意的是受到伤害后它的加持就会消失掉。"
-"REINFORCE spell will enhance both your attack power and critical rate. But the enhancements will be gone upon taking valid damages."
+"REINFORCE spell will enhance both your attack power and critical rate. But the enhancements will be gone upon taking any damage."
 "A magia REFORÇAR vai aprimorar seu poder de ataque e taxa de críticos. Mas o aprimoramento desaparecerá ao receber dano válido."
 "Le sort RENFORCEMENT améliore la puissance d'attaque et le taux de coup critique. Mais les améliorations disparaitront après tout dommage."
 
@@ -117,7 +117,7 @@ Explosion d'aura noire 4
 "A propos du sort DISPARITION"
 
 "发动雾隐术后你可以在一段时间内处于隐身状态。没有东西可以伤到你。"
-"After executing the VANISH spell, you can gain temporarily invincibility and nothing will hurt you."
+"After executing the VANISH spell, you'll gain temporarily invincibility and nothing will hurt you."
 "Após realizar a magia DESVANECER, você recebe invencibilidade temporária e nada irá ferí-lo."
 "En lançant le sort DISPARITION, vous devenez invincible temporairement et rien ne vous blessera."
 
@@ -131,7 +131,7 @@ Explosão de Aura Negra 5
 Explosion d'aura noire 5
 
 "我听市里的老人们说有一种魔物，无论被击倒多少次它都会复活。"
-"Report from Henri Sardis the priest says there's a special monster which can always regenerate itself upon defeated." 
+"Report from Henri Sardis the priest says there's a special monster which can always regenerate itself upon defeat." 
 "Relatos do padre Henri Sardis dizem que há um monstro especial capaz de sempre se regenerar após sua derrota."
 "Le rapport du prêtre Henri Sardis présente un monstre spécial qui peut se régénérer à sa défaite."
 
