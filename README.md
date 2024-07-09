@@ -12,18 +12,18 @@ Some of the bugfixes are also shared with the main branch.
 
 ### Q&A corner ###
 
-Q: What's the purpose of this project?
-A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.
+Q: What's the purpose of this project?  
+A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.  
 
-Q: Why is Alucard being knocked back so hard?
-A: Because that's how Alucard behaviors in vanilla LC2. We left this untouched in order to make his design faithful to the vanilla. Unless if the requests are high enough we don't intend to change the knockback behavior, nor is there any hope to see possibility to change them easily.
+Q: Why is Alucard being knocked back so hard?  
+A: Because that's how Alucard behaviors in vanilla LC2. We left this untouched in order to make his design faithful to the vanilla. Unless if the requests are high enough we don't intend to change the knockback behavior, nor is there any hope to see possibility to change them easily.  
 
-Q: Will there be Valmanway/Crissaegrim in the game?
+Q: Will there be Valmanway/Crissaegrim in the game?  
 A: 1) There's technical difficulties that we cannot guarantee they will be in the game, as I figured the adjusts to weapon hitbox is already hella hard to apply.
-2) We fear they will break the vanilla design or goes against the original game's developers' intention badly. 
+2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.   
 
-Q: How about a super jump ability?
-A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.
+Q: How about a super jump ability?  
+A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.  
 
 
 ### Update History ###
