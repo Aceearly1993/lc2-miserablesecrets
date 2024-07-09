@@ -25,6 +25,31 @@ A: 1) There's technical difficulties that we cannot guarantee they will be in th
 Q: How about a super jump ability?  
 A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.  
 
+#### Credit Goes For ####
+Migami Games  
+Konami  
+Robert Belgrade  
+palmymkgames  
+Aceearly1993  
+DragonX24  
+mashedpotatoes312  
+theplottwist  
+Jorge. D. Fuentes  
+jdbuenol  
+Exorion Hagen  
+狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)  
+ACC (a.k.a."得枫.德广"), Astral "Bozo" Clocktower (Alucard animation enhance)    
+
+Translations to enemy description/extra texts:  
+English/Portuguese/Simplified Chinese - The Lecarde 2 rework project team (Aceearly1993, Katriel, ThePlotTwist, Jeffrey Montoya)  
+French - Chernabogue  
+Spanish - Jorge Fuentes  
+German - Exorion Hagen  
+Italian - TheCarsEdge  
+Japanese - 狼王之2型  
+
+... and all the people in the game's original credits.  
+
 
 ### Update History ###
 
