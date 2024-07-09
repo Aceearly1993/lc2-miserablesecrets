@@ -19,7 +19,7 @@ Q: Why is Alucard being knocked back so hard?
 A: Because that's how Alucard behaviors in vanilla LC2. We left this untouched in order to make his design faithful to the vanilla. Unless if the requests are high enough we don't intend to change the knockback behavior, nor is there any hope to see possibility to change them easily.  
 
 Q: Will there be Valmanway/Crissaegrim in the game?  
-A: 1) There's technical difficulties that we cannot guarantee they will be in the game, as I figured the adjusts to weapon hitbox is already hella hard to apply.
+A: 1) There's technical difficulties that we cannot guarantee they will be in the game, as I figured the adjusts to weapon hitbox is already hella hard to apply.  
 2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.   
 
 Q: How about a super jump ability?  
