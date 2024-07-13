@@ -5,7 +5,7 @@ THIS IS A COMMUNITY PROJECT
 This project is a community enhancement aiming to create an Alucard main mode in freeware fan game "Castlevania: The Lecarde Chronicles 2" using both custom and pre-existed assets.
 Because the lost of exact original design document, there's no reference to such mode so we have no choice but to add a bit of customized events, as such it may or may not fit the initial intention of original design idea of a possible Alucard main mode.
 
-More extensive deatils are shared with the main branch so I won't bring more words here unless really necessary: 
+More extensive details are shared with the main branch so I won't bring more words here unless really necessary: 
 https://github.com/katriellucas/lecarde-2
 
 Some of the bugfixes are also shared with the main branch.
