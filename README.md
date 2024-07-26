@@ -53,6 +53,10 @@ Japanese - 狼王之2型
 
 ### Update History ###
 
+#### [1.5.0] - 2024/7/26 #### 
+
+`CHANGED` - Ported 1.5.0 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
+
 #### [1.4.9.3] - 2024/7/9 #### 
 
 First, initial release
