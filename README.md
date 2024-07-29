@@ -56,6 +56,8 @@ Japanese - 狼王之2型
 #### [1.5.0] - 2024/7/26 #### 
 
 `CHANGED` - Ported 1.5.0 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
+`CHANGED` - Freeze the aura type slot to always be in DARK MAGIC.  (Aceearly1993)  
+`CHANGED` - When you pick aura blast orb, it increase both type of aura blast as a fix in order to not interrupt Efrain's game.  (Aceearly1993)  
 
 #### [1.4.9.3] - 2024/7/9 #### 
 
