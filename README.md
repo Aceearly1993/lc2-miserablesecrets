@@ -15,9 +15,6 @@ Some of the bugfixes are also shared with the main branch.
 Q: What's the purpose of this project?  
 A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.  
 
-Q: Why is Alucard being knocked back so hard?  
-A: Because that's how Alucard behaviors in vanilla LC2. We left this untouched in order to make his design faithful to the vanilla even though we had found ways to recton this. Unless if the requests are high enough we don't intend to change the knockback behavior.  
-
 Q: Will there be Valmanway/Crissaegrim in the game?  
 A: 1) There's technical difficulties that we cannot guarantee they will be in the game, as I figured the adjusts to weapon hitbox is already hella hard to apply.  
 2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.   
