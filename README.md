@@ -54,6 +54,8 @@ Japanese - 狼王之2型
 
 `CHANGED` - Ported 1.5.2 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
 `CHANGED` - Eliminated additional distance and speed of knockback while air dashing to avoid confusions. (Aceearly1993)  
+`ADDED` - Regulation for situation when the dying animation takes too long to drop to the floor. (Aceearly1993)  
+
 
 #### [1.5.1] - 2024/8/2 #### 
 
