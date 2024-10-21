@@ -53,6 +53,7 @@ Japanese - 狼王之2型
 #### [1.5.4] - 2024/10/1 #### 
 
 `CHANGED` - Ported 1.5.4 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
+`FIXED` - Special effect when Alucard is damaged when the effect of green ball is active.  (Aceearly1993)  
 
 
 #### [1.5.3] - 2024/9/14 #### 
