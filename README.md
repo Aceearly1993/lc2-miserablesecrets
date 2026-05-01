@@ -50,35 +50,7 @@ Japanese - 狼王之2型
 
 ### Update History ###
 
-#### [1.5.5] - 2024/1/10 #### 
 
-`CHANGED` - Ported 1.5.5 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
-
-#### [1.5.4] - 2024/10/1 #### 
-
-`CHANGED` - Ported 1.5.4 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
-`FIXED` - Special effect when Alucard is damaged when the effect of green ball is active.  (Aceearly1993)  
-
-
-#### [1.5.3] - 2024/9/14 #### 
-
-`CHANGED` - Ported 1.5.3 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
-
-
-#### [1.5.2] - 2024/8/2 #### 
-
-`CHANGED` - Ported 1.5.2 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
-`CHANGED` - Eliminated additional distance and speed of knockback while air dashing to avoid confusions. (Aceearly1993)  
-`ADDED` - Regulation for situation when the dying animation takes too long to drop to the floor. (Aceearly1993)  
-
-
-#### [1.5.1] - 2024/8/2 #### 
-
-`CHANGED` - Ported 1.5.1 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
-
-#### [1.5.0] - 2024/7/26 #### 
-
-`CHANGED` - Ported 1.5.0 changes from main branch (https://github.com/katriellucas/lecarde-2/releases).  (Aceearly1993)  
 `CHANGED` - Freeze the aura type slot to always be in DARK MAGIC.  (Aceearly1993)  
 `CHANGED` - When you pick aura blast orb, it increase both type of aura blast as a fix in order to not interrupt Efrain's game.  (Aceearly1993)  
 
