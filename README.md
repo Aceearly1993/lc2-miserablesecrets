@@ -13,14 +13,20 @@ Some of the bugfixes are also shared with the main branch.
 ### Q&A corner ###
 
 Q: What's the purpose of this project?  
-A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.  
+A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we (the rework team) received quite a lot of request, so we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.  
+
 
 Q: Will there be Valmanway/Crissaegrim in the game?  
-A: 1) There's technical difficulties that we cannot guarantee they will be in the game, as I figured the adjusts to weapon hitbox is already hella hard to apply.  
-2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.   
+A: Our fear included: 
+1) It's possible but it's not something without technical difficulties so we cannot guarantee they will be in the game (in an ideal way).  
+2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.
+3) 
+Despite these, we can at least try to include it as a sectre well hidden.
+
 
 Q: How about a super jump ability?  
 A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.  
+
 
 #### Credit Goes For ####
 Migami Games  
@@ -51,9 +57,4 @@ Japanese - 狼王之2型
 ### Update History ###
 
 
-`CHANGED` - Freeze the aura type slot to always be in DARK MAGIC.  (Aceearly1993)  
-`CHANGED` - When you pick aura blast orb, it increase both type of aura blast as a fix in order to not interrupt Efrain's game.  (Aceearly1993)  
 
-#### [1.4.9.3] - 2024/7/9 #### 
-
-First, initial release
