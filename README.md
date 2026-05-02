@@ -45,7 +45,7 @@ Jorge. D. Fuentes
 jdbuenol  
 Exorion Hagen  
 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)  
-ACC (a.k.a."得枫.德广"), Astral "Bozo" Clocktower (Alucard animation enhance)    
+ACC (a.k.a."得枫.德广")(https://space.bilibili.com/1471923), Astral "Bozo" Clocktower (Alucard animation enhance)    
 
 Translations to enemy description/extra texts:  
 English/Portuguese/Simplified Chinese - The Lecarde 2 rework project team (Aceearly1993, Katriel, ThePlotTwist, Jeffrey Montoya)  
