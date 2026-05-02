@@ -27,6 +27,10 @@ Despite these, we can at least try to include it as a secret well hidden.
 Q: How about a super jump ability?  
 A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.  
 
+### Rules on Submitting a Translation error ###
+
+The text script is well established in 2 years and not really a subject to be dispatched again and again; Please submit a translation error only when the errors are serious and inconsistency is huge enough. Hope we can earn your understandings. 
+
 
 #### Credit Goes For ####
 Migami Games  
