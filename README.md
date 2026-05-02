@@ -24,7 +24,7 @@ A: Our fear included:
 Despite these, we can at least try to include it as a secret well hidden.
 
 
-Q: How about a super jump ability?  
+Q: How about a super jump or a bat transform ability?  
 A: It's possible, but the rework team is against the idea and it will look weird if using pre-existed events.  
 
 ### Rules on Submitting a Translation error ###
