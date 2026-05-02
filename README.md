@@ -20,8 +20,8 @@ Q: Will there be Valmanway/Crissaegrim in the game?
 A: Our fear included: 
 1) It's possible but it's not something without technical difficulties so we cannot guarantee they will be in the game (in an ideal way).  
 2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.
-3) 
-Despite these, we can at least try to include it as a sectre well hidden.
+
+Despite these, we can at least try to include it as a secret well hidden.
 
 
 Q: How about a super jump ability?  
@@ -51,7 +51,9 @@ German - Exorion Hagen
 Italian - TheCarsEdge  
 Japanese - 狼王之2型  
 
-... and all the people in the game's original credits.  
+
+
+... and all the people in the game's original credits and reworked edition credits.  
 
 
 ### Update History ###
