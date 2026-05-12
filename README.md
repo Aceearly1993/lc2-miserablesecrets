@@ -6,7 +6,7 @@ This project is a community mod aiming to create an Alucard main mode in freewar
 Because the lost of exact original design document, there's no reference to such mode so we have no choice but to add a bit of customized events, as such it may or may not fit the initial intention of original design idea of a possible Alucard main mode.
 
 More extensive details are shared with the main branch so I won't bring more words here unless really necessary: 
-https://github.com/katriellucas/lecarde-2
+https://github.com/katriellucas/lecarde-2  
 We recommend play the main version (Efrain's game) before in order to avoid potential spoilers of the main game, if you care about that. 
 
 
