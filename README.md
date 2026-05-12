@@ -34,6 +34,16 @@ A: It's possible, but the rework team is against the idea and it will look weird
 The text script is well established in 2 years and not really a subject to be dispatched again and again; Please submit a translation error only when the errors are serious and inconsistency is huge enough. Hope we can earn your understandings. 
 
 
+
+Discuss the reworked version of Lecarde 1 and Lecarde 2:   
+https://discord.gg/yuS7VjPfYM 
+
+
+Discuss more Migami games works (mainly their works AFTER their transition into a commercial studio): 
+https://discord.gg/uAVxVqmZXx  
+
+
+
 #### Credit Goes For ####
 Migami Games  
 Konami  
@@ -61,6 +71,7 @@ Japanese - 狼王之2型
 
 ... and all the people in the game's original credits and reworked edition credits.  
 
+Thank you; Your contributions occupied a great session in this community mod and helped us break through the constant backs-and-forths in the directions of this community mod. 
 
 ### Update History ###
 
