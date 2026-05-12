@@ -7,6 +7,8 @@ Because the lost of exact original design document, there's no reference to such
 
 More extensive details are shared with the main branch so I won't bring more words here unless really necessary: 
 https://github.com/katriellucas/lecarde-2
+We recommend play the main version (Efrain's game) before in order to avoid potential spoilers of the main game, if you care about that. 
+
 
 Some of the bugfixes are also shared with the main branch.
 
