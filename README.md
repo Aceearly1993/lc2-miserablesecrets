@@ -21,7 +21,7 @@ A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is
 Q: Will there be Valmanway/Crissaegrim in the game?  
 A: Our fear included: 
 1) It's possible but it's not something without technical difficulties so we cannot guarantee they will be in the game (in an ideal way).  
-2) We fear they will break the vanilla design or goes against the original game's developers' intention badly.
+2) We fear they will break the vanilla design or the direction goes against the original game's developers' intention badly.
 
 Despite these, we can at least try to include it as a secret well hidden, without hindering the majority of the game.
 
