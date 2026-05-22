@@ -77,4 +77,6 @@ Thank you; Your contributions occupied a great session in this community mod and
 ### Update History ###
 
 
+#### [1.6.2] - 2026/5/30 #### 
 
+Initial release of the sub branch.
