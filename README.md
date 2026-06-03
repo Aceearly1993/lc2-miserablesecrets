@@ -74,9 +74,16 @@ Japanese - 狼王之2型
 
 Thank you; Your contributions occupied a great session in this community mod and helped us break through the constant backs-and-forths in the directions of this community mod. 
 
+
 ### Update History ###
 
+#### 2026/6/3 #### 
 
-#### [1.6.4] - 2026/5/30 #### 
+- Garden of the Dead: Fixed a irregular behavior if for some reason you get 2 chalices before triggering the first statue's activation zone for the first time. 
+- Altar: Always return a variable to 0 so that the final boss trigger zone will always be possible to trigger, overriding the whatever saved variable in the save file. 
+
+
+
+#### 2026/5/30 #### 
 
 Initial release of the sub branch.
