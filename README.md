@@ -77,6 +77,16 @@ Thank you; Your contributions occupied a great session in this community mod and
 
 ### Update History ###
 
+
+#### 2026/6/13 #### 
+
+- Game start: Added a text string so that it's more clear that players are playing as Alucard in this branch.
+- Albaret earldom, Princely Room: Several exploits adjusted.
+- Castle entrance: reduced the total amount of grip ring objects the game loads at once.
+- Main character movement: Very slightly adjusted movement speed to be less vulunerable to exploits.
+
+
+
 #### 2026/6/3 #### 
 
 - Garden of the Dead: Fixed a irregular behavior if for some reason you get 2 chalices before triggering the first statue's activation zone for the first time. 
