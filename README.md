@@ -81,7 +81,7 @@ Thank you; Your contributions occupied a great session in this community mod and
 #### 2026/6/13 #### 
 
 - Game start: Added a text string so that it's more clear that players are playing as Alucard in this branch.
-- Albaret earldom, Princely Room: Several exploits adjusted.
+- Albaret earldom, Garden of Deads, Chamber of illusions, Princely Room: Several exploits adjusted.
 - Castle entrance: reduced the total amount of grip ring objects the game loads at once.
 - Main character movement: Very slightly adjusted movement speed to be less vulunerable to exploits.
 - Double jump/triple jump: Added several pre-input frames so that they can be performed after an air dash much easier than before. 
