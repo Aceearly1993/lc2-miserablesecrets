@@ -78,6 +78,18 @@ Thank you; Your contributions occupied a great session in this community mod and
 ### Update History ###
 
 
+#### 2026/7/3 #### 
+
+ - Main hitbox: Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  
+ - Servigny earldom>Albemont Ruins: Due to hurtbox capable to change individually without touching the main collision box, there's no need to resize the spotlight object; 
+They're now reverted to the same size as in the vanilla game for the sake of authority visual-wise, optimization and compatibility.  
+- Garden of the deads: Fixed a bug which after the Anna V.V boss fight, the wind bell's return function will not work even after leaving Garden of the deads.
+- Boss Rush: Fixed an issue which will cause the damage of Lucifer's lasers being abnormally higher than usual.
+- Boss Rush (Efrain): Fixed a bug in the temporary fix of Issue 43 (related to Air Dash) in the main branch where a second air dash will sometimes be lost when executed the first air dash, 
+and slash in mid air before landing, then jump again and attempt to do double air dash after the next jumping. 
+
+
+
 #### 2026/6/13 #### 
 
 - Game start: Added a text string so that it's more clear that players are playing as Alucard in this branch.
