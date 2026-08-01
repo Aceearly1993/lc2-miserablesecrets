@@ -14,6 +14,9 @@ Some of the bugfixes are also shared with the main branch.
 
 ### Q&A corner ###
 
+<img width="689" height="497" alt="RHX`$FJZ{3G%T9%GJAG$2PA" src="https://github.com/user-attachments/assets/99103865-fb22-40a4-a962-2f4dd2284749" />
+
+
 Q: What's the purpose of this project?  
 A: The Alucard main campaign mode is missing from the vanilla version. As LC2 is open sourced in 2023-2024, we (the rework team) received quite a lot of request, so we want to create our own vision to describe the Alucard main mode, fulfill the previously missed opportunity.  
 
@@ -80,7 +83,8 @@ Thank you; Your contributions occupied a great session in this community mod and
 
 #### 2026/7/3 #### 
 
- - Main hitbox: Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  
+ - Main hitbox: Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.
+ - L'Auberge rouge Inn: A hidden bonus changed to not disappear too soon, following the logic of other hidden bonus spots throughout the game.
  - Servigny earldom>Albemont Ruins: Due to hurtbox capable to change individually without touching the main collision box, there's no need to resize the spotlight object; 
 They're now reverted to the same size as in the vanilla game for the sake of authority visual-wise, optimization and compatibility.  
 - Garden of the deads: Fixed a bug which after the Anna V.V boss fight, the wind bell's return function will not work even after leaving Garden of the deads.
