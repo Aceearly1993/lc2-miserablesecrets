@@ -81,6 +81,12 @@ Thank you; Your contributions occupied a great session in this community mod and
 ### Update History ###
 
 
+#### 2026/9/3 #### 
+
+ - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
+
+
+
 #### 2026/7/3 #### 
 
  - Main hitbox: Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.
