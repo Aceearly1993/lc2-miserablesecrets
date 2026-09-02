@@ -85,6 +85,7 @@ Thank you; Your contributions occupied a great session in this community mod and
 
  - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
 
+ - Fixed one text error at the drop item list in monster bestiary. 
 
 
 #### 2026/7/3 #### 
