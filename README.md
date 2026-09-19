@@ -84,11 +84,9 @@ Thank you; Your contributions occupied a great session in this community mod and
 #### 2026/9/3 #### 
 
  - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
-
  - Fixed one text error at the drop item list in monster bestiary. 
-
  - Sarelle Cemetery: Fixed an unintended exploit in fake Efrain boss by adding invisible walls as soon as the dialogue speaks prior to the boss fight.
-
+ - Underground Caves: Fixed a bug which the laser trap Necromancer summoned will not be functional in extreme situations. 
   
 
 #### 2026/7/3 #### 
