@@ -87,6 +87,9 @@ Thank you; Your contributions occupied a great session in this community mod and
 
  - Fixed one text error at the drop item list in monster bestiary. 
 
+ - Sarelle Cemetery: Fixed an unintended exploit in fake Efrain boss by adding invisible walls as soon as the dialogue speaks prior to the boss fight.
+
+  
 
 #### 2026/7/3 #### 
 
