@@ -46,6 +46,9 @@ Discuss more Migami games works (mainly their works AFTER their transition into 
 https://discord.gg/uAVxVqmZXx  
 
 
+#### Access the Releases ####
+
+The latest stable releases can be accessed at >  http://github.com/Aceearly1993/lc2-miserablesecrets/releases
 
 #### Credit Goes For ####
 Migami Games  
