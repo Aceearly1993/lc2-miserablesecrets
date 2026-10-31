@@ -83,6 +83,23 @@ Thank you; Your contributions occupied a great session in this community mod and
 
 ### Update History ###
 
+#### 2026/10/31 #### 
+
+- Spotlights: Adjusted collision condition so that it's consistent to the condition used in [Chronicles of the Wolf].
+- Pause Menu/Mini Map: Adjusted timing of the game capable to receive exit input so that it's identical to the condition used in [Chronicles of the Wolf].
+- Pre-input of double jump/triple jump after air dash: Timing became slightly wider.
+- Twilight cloak: Adjusted its effect so that it won't be a redundant item;
+Spanish - D3
+German - Soul D. Sol
+Italian - Shüan
+English - Daedalus007 
+Simlified Chinese - Aceearly1993
+- Eternal Light: Adjusted the graphic so that it's more gramatically correct in German. (Soul D. Sol/Aceearly1993)
+- La Tourvelle Earldom> La Perdrix: Adjusted road sign text box position so that it won't override main character. 
+- Alucard walking: Slightly increased animation speed by 2 to reflect player's opinions. 
+- Temporarily Rollback the joystick 2 extension to the previous stable version just in case if the updated version 
+isn't 100% compatible with OS versions higher than Win10 20H2 during the scene transition after game over.    (Aceearly1993)  
+
 
 #### 2026/9/3 #### 
 
