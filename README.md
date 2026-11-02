@@ -99,6 +99,7 @@ Simlified Chinese - Aceearly1993
 - Alucard walking: Slightly increased animation speed by 2 to reflect player's opinions. 
 - Temporarily Rollback the joystick 2 extension to the previous stable version just in case if the updated version 
 isn't 100% compatible with OS versions higher than Win10 20H2 during the scene transition after game over.    (Aceearly1993)  
+- Boss Rush: Further reduced Hurt collision during falling/air dash to reflex player's opinions.  (Aceearly1993)  
 
 
 #### 2026/9/3 #### 
