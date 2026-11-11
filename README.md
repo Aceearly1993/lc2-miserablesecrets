@@ -83,6 +83,13 @@ Thank you; Your contributions occupied a great session in this community mod and
 
 ### Update History ###
 
+#### 2026/11/11 #### 
+
+`CHANGED` - Control config: Due to repeated complains about player's inability to find controller label setting, isolated controller label setting as a individual option as visible as the logic technically could.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, The check of [if the current controller is XBOX controller] had been also applied to joystick slots 2, 3 and 4 instead of only reading slot 1.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, it's now capable to choose XBOX controller lable even if player isn't actually using first-party XBOX controller.    (Aceearly1993)  
+
+
 #### 2026/10/31 #### 
 
 - Spotlights: Adjusted collision condition so that it's consistent to the condition used in [Chronicles of the Wolf].
